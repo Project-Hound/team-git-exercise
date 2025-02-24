@@ -19,7 +19,7 @@ The feature searches the list for the "Sunday" element.
 "Sunday" element is in the list.
 So the result returns False.
 
-##NodeAtIndex
+## NodeAtIndex
 
 This feature navigates through the linked list and retrieved a node at a specific index. It will return data if the index is valid but out of bound, it will return "Index out of range."
 
