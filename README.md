@@ -26,3 +26,8 @@ This feature navigates through the linked list and retrieved a node at a specifi
 Test Case: node = NodeAtIndex(baselinkedlist.l1, 0)
 
 since 0, is being called, it will navigate and retrieve the corresponding index of node, thus it will return Monday. If it is out of bound, it will return index out of range. 
+
+## Reversedlist
+
+this feature is used to reverse the list. The reversed list feature allows you to view or iterate through a list’s elements in the opposite order. This feature is useful for tasks like backtracking, processing data in reverse, or displaying items from last to first.
+
